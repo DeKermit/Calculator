@@ -138,5 +138,3 @@ deleteButton.addEventListener('click', button => {
   calculator.delete()
   calculator.updateDisplay()
 })
-
-//most of this code was written with web dev simplifieds help with some changes done 
